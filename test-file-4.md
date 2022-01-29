@@ -1,2 +1,2 @@
-[link](link.com)
-![image](image)
+[link 1](thisisalink.com)
+![image](thisisanimage)
